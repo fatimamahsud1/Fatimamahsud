@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Fatimamahsud
-- 👀 I’m interested in Coding,Artificial intelligence, Machine learning and alot more technologies. I know C++,python, Java, Html and CSS.
-- 🌱 I’m currently learning front-end web development.
-- 💞️ I’m looking for free projects to learn more.
-- 📫 You can contact me on my G-mail account: fatimamahsud1@gmail.com.
+ # 👋Hi, I’m @Fatimamahsud
+- Under-graduate Computer Science Student
+- Interests include Deep Learning, Data Science, Big Data.
+- I’m currently learning mobile application development.
+- **Languages:** Python, c++, Java
+- **Tools:** Adobe XD, Adobe photoshop, Adobe illustrator, Visual Studio Code.
+- 📫 Reach out to me: **fatimamahsud1@gmail.com**
 
 <!---
 Fatimamahsud/Fatimamahsud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
