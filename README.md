@@ -1,4 +1,4 @@
- # 👋Hi, I’m @Fatimamahsud
+ # 👋Hey, I’m Fatima
 - Under-graduate Computer Science Student
 - Interests include Deep Learning, Data Science, Big Data.
 - I’m currently learning mobile application development.
