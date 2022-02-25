@@ -1,5 +1,5 @@
  <br>
- ### 👋 Hey, I’m Fatima
+ 👋 Hey, I’m Fatima
  <br>
  <br>
  A Student, Developer & Designer
