@@ -8,6 +8,7 @@
  #### A Little About Me:
 
 🙋‍♂️ Under-graduate Computer Science Student [COMSATS_Islamabad]<br>
+👉 Campus Lead/President [COMSATS_Islamabad][gdsc_cui]<br>
 👉 Core-Team Member(Creative Lead) [COMSATS_Islamabad][gdsc_cui]<br>
 💻 Intermediate Level Flutter Developer (Striving to Become Expert)<br>
 ✨ Interested in Machine Learning, Mobile Application Development, Deep Learning<br>
