@@ -3,7 +3,7 @@
  <br>
  <br>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=A+Student+Developer;Self-taught+Designer;Always+Learning+new+techonologies;Flutter+Developer;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=A+Student+Developer;Self-taught+Designer;Always+Learning+new+techonologies;React+Developer;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
  
  #### A Little About Me:
 
