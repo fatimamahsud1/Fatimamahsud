@@ -10,8 +10,6 @@
 👉 Core-Team Member(Creative Lead) 2021-2022 [COMSATS_Islamabad][gdsc_cui]<br>
 💻 Intermediate Level React native Developer, Full Stack MERN Developer<br>
 ✨ Interested in Machine Learning, Mobile and Web Application Development, Deep Learning<br>
-🎨 Design Enthusiast and UI/UX Designer<br>
-📫 Reach out to me at: **fatimamahsud1@gmail.com**<br>
 
 <br>
 <br>
